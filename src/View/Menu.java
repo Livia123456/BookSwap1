@@ -1,3 +1,5 @@
+package View;
+
 public class Menu {
 
     public void showMenu() {
